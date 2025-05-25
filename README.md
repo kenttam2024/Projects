@@ -3,15 +3,16 @@ These are some of my learning projects from Google Data Analytics and other Cour
 1) Projects are original uploaded to Kaggle: https://www.kaggle.com/kt2016
 2) Tableau Public Profile: https://public.tableau.com/app/profile/kent.tam/vizzes
 3) Looker Studio Visualization:
-   Advanced Dashboard
-   https://lookerstudio.google.com/reporting/ea96fe00-93ce-427c-9953-64de6a50b584
-   Customer Loalty Dashboard
-   https://lookerstudio.google.com/reporting/cbf4501e-6571-47ad-8c83-15ab567f2891
-4) Databricks:
+
+           Advanced Dashboard: https://lookerstudio.google.com/reporting/ea96fe00-93ce-427c-9953-64de6a50b584
+
+           Customer Loalty Dashboard: https://lookerstudio.google.com/reporting/cbf4501e-6571-47ad-8c83-15ab567f2891
+   
+5) Databricks:
    Supply Chain Dashboard
-5) PowerBI
+6) PowerBI
    https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3825112006008741/500020572936699/808356461288693/latest.html
-6) Excel Demos Project:
+7) Excel Demos Project:
 
            Lookup Example: https://ktsystemdesign-my.sharepoint.com/:x:/g/personal/kenttam_ktsystemdesign_onmicrosoft_com/EZng0uukNX1IjzfLUDUKV1AB5zMw20yaPoIpSws32ElKbw?e=0n9POU
 
