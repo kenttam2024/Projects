@@ -1,4 +1,4 @@
-These are some of my learning projects from Google Data Analytics and other Coursera courses that I took with Data. There are many exciting learning on going from Google Cloud Skill Boost, Deeplearning AI and so on. Hoping to help other to learn!
+These are some of my learning projects from Google Data Analytics, Coursera, Post Graduate Data Science courses that I took with Data. There are many exciting learning on going from Google Cloud Skill Boost, Deeplearning AI and so on. Hoping to help other to learn!
 
 1) Projects are original uploaded to Kaggle: https://www.kaggle.com/kt2016
 2) Tableau Public Profile: https://public.tableau.com/app/profile/kent.tam/vizzes
