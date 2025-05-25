@@ -11,7 +11,7 @@ These are some of my learning projects from Google Data Analytics and other Cour
    Supply Chain Dashboard
 5) PowerBI
    https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3825112006008741/500020572936699/808356461288693/latest.html
-6) Excel:
+6) Excel Demos Project:
 
            Lookup Example: https://ktsystemdesign-my.sharepoint.com/:x:/g/personal/kenttam_ktsystemdesign_onmicrosoft_com/EZng0uukNX1IjzfLUDUKV1AB5zMw20yaPoIpSws32ElKbw?e=0n9POU
 
