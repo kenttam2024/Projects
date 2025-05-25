@@ -7,3 +7,6 @@ These are some of my learning projects from Google Data Analytics and other Cour
    https://lookerstudio.google.com/reporting/ea96fe00-93ce-427c-9953-64de6a50b584
    Customer Loalty Dashboard
    https://lookerstudio.google.com/reporting/cbf4501e-6571-47ad-8c83-15ab567f2891
+4) Databricks:
+   Supply Chain Dashboard
+   https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3825112006008741/500020572936699/808356461288693/latest.html
